@@ -4,6 +4,7 @@ Aplikasi tersedia dalam dua versi:
 2. GUI (Graphical User Interface) menggunakan Qt Framework
 
 Anggota kelompok :
+
 Adrian Bagas Ananto
 
 Ammar Ameera Ahmad
